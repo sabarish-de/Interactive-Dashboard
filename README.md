@@ -100,14 +100,6 @@ All slicers update every chart on the page simultaneously.
 - ✅ Navigation-friendly layout with logical flow
 - ✅ Mix of chart types (line, bar, donut, pie) for variety
 
----
-
-## 🔗 Live Dashboard
-
-> [Click here to view the interactive Looker Studio dashboard](#)  
-> *(Replace `#` with your published Looker Studio link)*
-
----
 
 ## 📽️ Deliverables
 
